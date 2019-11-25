@@ -1,0 +1,23 @@
+{
+  "name": "prettier-vscode-errors",
+  "version": "1.0.0",
+  "description": "prettier-vscode-errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchillo17/prettier-vscode-errors.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luchillo17/prettier-vscode-errors/issues"
+  },
+  "homepage": "https://github.com/luchillo17/prettier-vscode-errors#readme",
+  "dependencies": {
+    "prettier": "^1.19.1",
+    "rxjs": "^6.5.3"
+  }
+}
